@@ -1,0 +1,3 @@
+max_retry: 2
+memory_enabled: false
+timeout_s: 30
